@@ -10,10 +10,9 @@
   <img align="center" alt="Ozymandias-Redux" height="30" width="40" src="https://github.com/Ozymandia-s/Ozymandia-s/blob/main/IconsSvg/redux.svg">
   <img align="center" alt="Ozymandias-Node" height="30" width="40" src="https://github.com/Ozymandia-s/Ozymandia-s/blob/main/IconsSvg/nodeJs.svg">
   <img align="center" alt="Ozymandias-html5" height="30" width="40" src="https://github.com/Ozymandia-s/Ozymandia-s/blob/main/IconsSvg/html5.svg">
-  <img align="center" alt="Ozymandias-Postgresql" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/postgresql-original.svg">
-  <img align="center" alt="Ozymandias-Sequelize" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/sequelize-original.svg">
-    <img align="center" alt="Ozymandias-Postgresql" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/mongodb-original.svg">
-  <img align="center" alt="Ozymandias-Jest" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/jest-plain.svg">
+  <img align="center" alt="Ozymandias-Postgresql" height="30" width="40" src="https://github.com/Ozymandia-s/Ozymandia-s/blob/main/IconsSvg/postgresql.svg">
+  <img align="center" alt="Ozymandias-Sequelize" height="30" width="40" src="https://github.com/Ozymandia-s/Ozymandia-s/blob/main/IconsSvg/sequelize.svg">
+  <img align="center" alt="Ozymandias-npmWord" height="30" width="40" src="https://github.com/Ozymandia-s/Ozymandia-s/blob/main/IconsSvg/npmWordMark.svg">
 
 
 <!--

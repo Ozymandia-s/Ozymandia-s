@@ -13,6 +13,8 @@
   <img align="center" alt="Ozymandias-Postgresql" height="30" width="40" src="https://github.com/Ozymandia-s/Ozymandia-s/blob/main/IconsSvg/postgresql.svg">
   <img align="center" alt="Ozymandias-Sequelize" height="30" width="40" src="https://github.com/Ozymandia-s/Ozymandia-s/blob/main/IconsSvg/sequelize.svg">
   <img align="center" alt="Ozymandias-npmWord" height="30" width="40" src="https://github.com/Ozymandia-s/Ozymandia-s/blob/main/IconsSvg/npmWordMark.svg">
+  <img align="center" alt="Ozymandias-css" height="30" width="40" src="https://github.com/Ozymandia-s/Ozymandia-s/blob/main/IconsSvg/css.svg">
+
 
 
 <!--

@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/gustavo-valencia-mosquera-908895279/">Gustavo Valencia</a> 👋</h1>
+</div>
+<img src="https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1">
 
 <!--
 **Ozymandia-s/Ozymandia-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
